@@ -28,14 +28,14 @@ We are pleased to offer two different ways for participants to present their wor
   padding: 15px 30px;
   font-size: 24px;
   color: white;
-  background-color: #d42525;
+  background-color: #dca735ff;
   text-decoration: none;
   border-radius: 5px;
   transition: background 0.3s;
 }
 
 .button:hover {
-  background-color: #ff95a1;
+  background-color: #fff395ff;
 }
 
 .button:visited,

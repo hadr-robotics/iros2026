@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="harder_combined_logo.png" alt="Workshop Logo" width="100%" %}
+{% include figure.html img="HADR_IROS.png" alt="Workshop Logo" width="100%" %}
 
 <div id="typewriter">
   <h1>Robots for...</h1>
@@ -44,9 +44,7 @@ title: Home
 
 ## Abstract
 
-Soft robots, with their adaptable materials and unique morphologies, promise novel capabilities for field applications. This workshop, inspired by the RoboSoft 2024 keynote, will focus on leveraging soft robotics for real-world challenges in humanitarian assistance, reconnaissance, disasters, exploration, and recovery (HARDER). The HARDER workshop will pair academic researchers with field practitioners to explore exciting applications and unmet needs in purposeful, inter-disciplinary conversations.
-
-> "It takes a soft robot to solve HARD problems"
+This workshop focuses on robotics and autonomous systems for Humanitarian Assistance and Disaster Relief (HADR), bringing interdisciplinary technologies to address complex emergency response challenges. It will convene researchers and practitioners from robotics, disaster science, emergency and field medicine, and systems engineering to explore problems spanning small-scale incidents to large-scale catastrophes while identifying common underlying challenges. Topics include field-deployable aerial and ground platforms, resilient perception and mapping in degraded environments, human–robot teaming, and decision support under uncertainty, alongside theoretical perspectives that frame HADR as a coherent scientific problem space. The workshop will also emphasize retrospective analyses of past deployments, strategies for collecting and sharing operationally relevant datasets, and the development of meaningful benchmarking methodologies that reflect the constraints of real disaster environments.
 
 **Location:** Pittsburgh, PA 
 
@@ -56,7 +54,7 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
 
 <div style="text-align: center;">
   <a href="./2-contributing.html" class="button">Submit Your Work!</a>
-  <a href="https://web.cvent.com/event/a4d97fd0-fa93-4129-bb7b-81c7eb9987bc/summary" class="button">Register</a>
+  <a href="" class="button">Register</a>
   <a href="https://forms.gle/3dRso1c3vBp9bHTt6" class="button">Get Updates</a>
 </div>
 
@@ -66,14 +64,14 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
   padding: 15px 30px;
   font-size: 24px;
   color: white;
-  background-color: #d42525;
+  background-color: #dca735ff;
   text-decoration: none;
   border-radius: 5px;
   transition: background 0.3s;
 }
 
 .button:hover {
-  background-color: #ff95a1;
+  background-color: #fff395ff;
 }
 
 .button:visited,
