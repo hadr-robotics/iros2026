@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20260306T231828Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260310T183254Z
+DTSTART;TZID=America/New_York:20260311T140000
+DTEND;TZID=America/New_York:20260311T150000
+SUMMARY:EPA Emergency Response Webinar - Emergency Deployment of Water Tr
+ eatment Systems During Disasters
+UID:20260310T183254Z-94154892228@web-prod-us01-va1-webok-6d89d8d74d-62g4w
+ 
+TZID:America/New_York
+DESCRIPTION:Topic: EPA Emergency Response Webinar - Emergency Deployment 
+ of Water Treatment Systems During Disasters\nDescription: Following an e
+ mergency event\, communities need access to clean water for various dail
+ y activities and medical purposes. EPA partnered with WaterStep to devel
+ op a modular\, mobile water treatment system known as Water on Wheels – 
+ Emergency Mobile Water Treatment System (WOW Cart). The WOW Cart is an i
+ nexpensive and versatile water treatment system about the size of a shop
+ ping cart that has been deployed in response to hurricanes\, tornadoes\,
+  and other disasters. \n\nMultiple deployments and discussions with stak
+ eholders have highlighted the lack of a pre-approval process for short-t
+ erm emergency drinking water systems among many states. This may limit t
+ he ability to use such capabilities and get clean water to affected area
+ s quickly. \n\nThis webinar will provide an overview of the WOW Cart and
+  the Association of State Drinking Water Administrators will discuss the
+ ir survey of state programs on pre-approval of short-term emergency drin
+ king water systems. It will discuss Kentucky’s Lily Pad program\, includ
+ ing guidelines for acceptance and monitoring of systems\, pre-deployment
+ s\, and training water utility staff in the operation of these systems. 
+ \n\nEPA will use your registration information solely for this event and
+  for invitations to future events. We will not share your information wi
+ th any third party.\n\nIt is EPA's policy to make reasonable accommodati
+ on to persons with disabilities wishing to participate in the Agency's p
+ rograms and activities\, pursuant to the Rehabilitation Act of 1973\, 29
+  U.S.C. 791. Any request for accommodation should be made to ICF at EPA-
+ Webinar-ER@icf.com in advance of the webinar.\n\nNOTE: The first and las
+ t name provided below will be as it appears on the Certificate of Attend
+ ance.\n\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://zoom.us/w/9415
+ 4892228?tk=w9l_WPzJNCnXeGvdnIe2D0b5Ck_rncZ7Z6XCi98muL8.DQkAAAAV7BGjxBZld
+ EY3S2d2blRmcTBhaklhNzhLcnFBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&u
+ uid=WN_pkDA4w5jTcWASU_vp7Arcg\n\nPhone one-tap:\n+13017158592\,\,9415489
+ 2228# US (Washington DC)\n+13052241968\,\,94154892228# US\n\nJoin via au
+ dio:\n+1 301 715 8592 US (Washington DC)\n+1 305 224 1968 US\n+1 309 205
+  3325 US\n+1 312 626 6799 US (Chicago)\n+1 646 931 3860 US\n+1 929 205 6
+ 099 US (New York)\n+1 719 359 4580 US\n+1 253 205 0468 US\n+1 253 215 87
+ 82 US (Tacoma)\n+1 346 248 7799 US (Houston)\n+1 360 209 5623 US\n+1 386
+  347 5053 US\n+1 507 473 4847 US\n+1 564 217 2000 US\n+1 669 444 9171 US
+ \n+1 669 900 6833 US (San Jose)\n+1 689 278 1000 US\nWebinar ID: 941 548
+ 9 2228\nInternational numbers available: https://zoom.us/u/abSBBBoQIA\n\
+ n\n
+LOCATION:https://zoom.us/w/94154892228?tk=w9l_WPzJNCnXeGvdnIe2D0b5Ck_rncZ
+ 7Z6XCi98muL8.DQkAAAAV7BGjxBZldEY3S2d2blRmcTBhaklhNzhLcnFBAAAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_pkDA4w5jTcWASU_vp7Arcg
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,14 @@ title: Home
 {% include figure.html img="harder_combined_logo.png" alt="Workshop Logo" width="100%" %}
 
 <div id="typewriter">
-  <h1>Soft Robots for...</h1>
+  <h1>Robots for...</h1>
   <i><h2 id="line" class="line"></h2></i>
 </div>
 
 <script>
   const lines = [
     "Humanitarian Assistance ",
-    "Reconnaissance ",
-    "Disasters ",
-    "Exploration ",
-    "Recovery ",
+    "Disaster Relief ",
     "",
     "HARD Problems ",
   ];
@@ -51,8 +48,10 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
 
 > "It takes a soft robot to solve HARD problems"
 
-**Location:** Lausanne, Switzerland  
-**Date:** April 23, 2025  
+**Location:** Pittsburgh, PA 
+
+**Date:** September 27, 2026
+
 **Duration:** Full Day
 
 <div style="text-align: center;">

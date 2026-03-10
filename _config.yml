@@ -8,9 +8,9 @@
 
 # Site settings
 # title appears in the header
-title: The HARDER Workshop
+title: HADR @ IROS
 # description and keywords for meta tags
-description: "Soft Robots for Humanitarian Assistance, Reconnaissance, Disasters, Exploration, and Recovery (HARDER)"
+description: "Humanitarian Assistance and Disaster Relief Robotics"
 
 # author settings for cc-by, appears in the footer
 author: evan will
@@ -26,10 +26,10 @@ repo: "https://github.com/evanwill/workshop-template"
 #
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://harder-workshop.github.io/
+url: https://hadr-robotics.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /robosoft_2025
+baseurl: /iros2026
 
 # defaults (to simplify front matter)
 defaults:
