@@ -11,6 +11,7 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 
 || Name                      | Affiliation                    | Talk Title |
 ||---------------------------|-------------------------------|------------|
+|![Xuesu](./images/radmila_round.png)| Radmila Segol              | Kyiv Aviation Institute (UA)               |TBD |
 |![Xuesu](./images/xuesu_round.png)| Xuesu Xiao              | George Mason University (USA)               |TBD |
 |![Zeynep](./images/zeynep_round.png) | Zeynep Temel                      | Carnegie Mellon University (USA)      | TBD  |
 |![Jee-Hwan](./images/jee-hwan_round.png)| Jee-Hwan Ryu              | KAIST (Korea)           | TBD |

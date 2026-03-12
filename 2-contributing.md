@@ -58,17 +58,17 @@ We are pleased to offer two different ways for participants to present their wor
 ## Topics of Interest
 - Humanitarian assistance & demining
 - Rescue robotics
-- Exploration of extreme environments (underwater, space, hazardous)
-- Environmental sensing
-- Field applications of soft robotics
+- Sensing in extreme environments (underwater, space, hazardous)
+- Remote sensing of disasters
 - Untethered and fully encapsulated systems
 - Inspection of critical infrastructure
-- Resilient operations
+- Resilient operations in degraded conditions
 - Performance evaluation and benchmarking
+
 
 ## Accepted Submissions.
 
-Posters will be posted online for future researchers to reference! Posters should use the following template [Adobe Illustrator](https://drive.google.com/file/d/11GiLXmSUbyQJZmtaic-X38Gtbfe8aT4r/view?usp=sharing) and [PowerPoint](https://docs.google.com/presentation/d/16zIEQakUeFcQu-LW7_O3i4SD3WojrLgp/edit?usp=sharing&ouid=106091177615694516459&rtpof=true&sd=true) files available.
+Posters will be posted online for future researchers to reference! Posters should use the following template [Adobe Illustrator]() and [PowerPoint]() files available.
 
 <p class="footnote">
   <i>The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</i>
