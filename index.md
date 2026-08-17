@@ -48,7 +48,7 @@ This workshop focuses on robotics and autonomous systems for Humanitarian Assist
 
 **Location:** Pittsburgh, PA 
 
-**Date:** September 27, 2026
+**Date:** October 1, 2026
 
 **Duration:** Full Day
 
