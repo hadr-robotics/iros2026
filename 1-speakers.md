@@ -18,4 +18,4 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 |![Davide](./images/davide_round.png)| Davide Scaramuzza              | University of Zurich (Switzerland)         | From Drone Racing to Disaster Response: Agile Autonomy in the Real World  |
 |![Luca](./images/lukas_round.png)| Lukas Rosenberger Schmid | Technische Universität Nürnberg (Germany)    | Dynamic Robot Memory for Humanitarian Assistance |
 |![Basti](./images/basti_round.png)| Sebastian Scherer | Carnegie Mellon University    | Team Chiron’s Approach to Save the Maximum Number of Lives with a Team of Autonomous Robots in Mass Casualty Situations |
-|![Basti](./images/blank.png)| TBD | Carnegie Mellon University    | Snakebot Response to Venezuela Earthquakes |
+|![Basti](./images/darwin_round.png)| Darwin Mick | Carnegie Mellon University    | Field Deployment of Snake Robots During the Venezuelan Earthquake Response |
