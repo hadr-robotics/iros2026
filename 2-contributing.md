@@ -51,8 +51,8 @@ We are pleased to offer two different ways for participants to present their wor
 *All submission deadlines are at 23:59:59 PDT*
 
 - July 15: Submission portal opens
-- August 28: Submission portal closes
-- September 4: Decision notifications sent
+- ~~August 28~~ September 10: Submission portal closes
+- ~~September 4~~ September 12: Decision notifications sent
 - October 1: HADR @ IROS Workshop!
 
 ## Topics of Interest

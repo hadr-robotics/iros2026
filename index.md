@@ -54,8 +54,7 @@ This workshop focuses on robotics and autonomous systems for Humanitarian Assist
 
 <div style="text-align: center;">
   <a href="./2-contributing.html" class="button">Submit Your Work!</a>
-  <a href="" class="button">Register</a>
-  <a href="https://forms.gle/3dRso1c3vBp9bHTt6" class="button">Get Updates</a>
+  <a href="https://2026.ieee-iros.org/attend/registration/" class="button">Register</a>
 </div>
 
 <style>
