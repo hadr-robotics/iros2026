@@ -5,21 +5,21 @@ nav: true
 
 # Schedule
 
-## Workshop Structure
-The HARDER workshop features sessions combining presentations and panel discussions between academic and industry leaders. The structure facilitates networking, knowledge sharing, and collaboration among researchers and real-world stakeholders.
-
 | Time              | Description                                   | Topic                     |
 |-------------------|-----------------------------------------------|---------------------------|
-| 9:00-9:30 am      | Workshop introduction, objectives, and format | Welcome                   |
-| 9:30-10:30 am     | Talks and panel discussion                    | Space Exploration         |
-| 10:30-11:00 am    | Poster and demo blitz                         | Poster Blitz              |
-| 11:00-11:30 am    | Poster presentations                          | Coffee Break & Posters    |
-| 11:30 am-12:00 pm | Poster and demo session                       | Posters & Demos           |
-| 12:00-1:00 pm     | Talks and panel discussion                    | Environmental Monitoring  |
-| 1:00-2:00 pm      | Lunch                                         |                           |
-| 2:00-2:30 pm      | Keynote address                               | Disaster Robotics         |
-| 2:30-3:30 pm      | Talks and panel discussion                    | Search & Rescue           |
-| 3:30-4:00 pm      | Afternoon snack break                         |                           |
-| 4:00-5:00 pm      | Talks and panel discussion                    | Underwater Exploration    |
-| 5:00-5:45 pm      | Round table discussion                        | All-Day Themes            |
-| 5:45-6:00 pm      | Concluding remarks and awards                 |                           |
+| 8:30-9:00 am      | Workshop introduction, objectives, and format | Welcome                   |
+| 9:00-10:00 am     | Keynote: Yevhen Artamonov, Kyiv Aviation Institute (UA)                     | _A Drone Has No Path; a Drone Has a Target_         |
+| 10:00-10:30 am    | Poster and demo blitz                         | Poster Blitz              |
+| 10:30-11:30 am    | Coffee Break & Posters                         | Coffee Break & Posters    |
+| 11:30 am-12:00 pm | Speaker: Jee-Hwan Ryu, KAIST (ROK)                     | Soft Growing Robots: From Disaster Response to Colonoscopy           |
+| 12:00-12:30 pm     | Speaker: Zeynep Temel, Carnegie Mellon University (USA) | _TBD_  |
+| 12:30-1:30 pm      | Lunch on your own                            |                           |
+| 1:30-2:30 pm      | Keynote: Darwin Mick, Carnegie Mellon University (USA);                              | _Field Deployment of Snake Robots During the Venezuelan Earthquake Response_   |
+| 2:30-3:00 pm      | Speaker: Xuesu Xiao, George Mason University (USA) | _Learning Extreme Off-Road Mobility_   |
+| 3:00-3:30 pm      | Speaker: Davide Scaramuzza, University of Zurich (CH) |  _From Drone Racing to Disaster Response: Agile Autonomy in the Real World_    |
+| 3:30-4:00 pm      | Coffee Break                    | -   |
+| 4:00-4:30 pm      | Speaker: Lukas Rosenberger Schmid, University of Zurich (CH) | _Dynamic Robot Memory for Humanitarian Assistance_ |
+| 4:30-5:00 pm      | Speaker: Sebastian Scherer, Carnegie Mellon University (USA) | _Team Chiron’s Approach to Save the Maximum Number of Lives with a Team of Autonomous Robots in Mass Casualty Situations_ |
+| 5:00-5:30 pm      | Closing/concluding remarks and action items + Awards                 |                           |
+| 5:30 pm +      | Social sponsored by IEEE SSRR TC              |                           |
+
