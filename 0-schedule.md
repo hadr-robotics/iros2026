@@ -12,7 +12,7 @@ nav: true
 | 10:00-10:30 am    | Poster and demo blitz                         | Poster Blitz              |
 | 10:30-11:30 am    | Coffee Break & Posters                         | Coffee Break & Posters    |
 | 11:30 am-12:00 pm | Speaker: Jee-Hwan Ryu, KAIST (ROK)                     | Soft Growing Robots: From Disaster Response to Colonoscopy           |
-| 12:00-12:30 pm     | Speaker: Zeynep Temel, Carnegie Mellon University (USA) | _TBD_  |
+| 12:00-12:30 pm     | Speaker: Zeynep Temel, Carnegie Mellon University (USA) | _Heterogenous Collaboration of Unconventional Robots_  |
 | 12:30-1:30 pm      | Lunch on your own                            |                           |
 | 1:30-2:30 pm      | Keynote: Darwin Mick, Carnegie Mellon University (USA);                              | _Field Deployment of Snake Robots During the Venezuelan Earthquake Response_   |
 | 2:30-3:00 pm      | Speaker: Xuesu Xiao, George Mason University (USA) | _Learning Extreme Off-Road Mobility_   |
