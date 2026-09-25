@@ -16,6 +16,6 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 |![Zeynep](./images/zeynep_round.png) | Zeynep Temel                      | Carnegie Mellon University (USA)      | Heterogenous Collaboration of Unconventional Robots  |
 |![Jee-Hwan](./images/jee-hwan_round.png)| Jee-Hwan Ryu              | KAIST (Korea)           | Soft Growing Robots: From Disaster Response to Colonoscopy |
 |![Davide](./images/ismail_round.png)| Ismail Geles              | University of Zurich (Switzerland)         | From Drone Racing to Disaster Response: Agile Autonomy in the Real World  |
-|![Luca](./images/lukas_round.png)| Lukas Rosenberger Schmid | Technische Universität Nürnberg (Germany)    | Dynamic Robot Memory for Humanitarian Assistance |
+|![Luca](./images/lukas_round.png)| Lukas Rosenberger Schmid | University of Technology Nuremberg (Germany)    | Dynamic Robot Memory for Humanitarian Assistance |
 |![Basti](./images/basti_round.png)| Sebastian Scherer | Carnegie Mellon University    | Team Chiron’s Approach to Save the Maximum Number of Lives with a Team of Autonomous Robots in Mass Casualty Situations |
 |![Basti](./images/darwin_round.png)| Darwin Mick | Carnegie Mellon University    | Field Deployment of Snake Robots During the Venezuelan Earthquake Response |

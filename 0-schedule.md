@@ -18,7 +18,7 @@ nav: true
 | 2:30-3:00 pm      | Speaker: Xuesu Xiao, George Mason University (USA) | _Learning Extreme Off-Road Mobility_   |
 | 3:00-3:30 pm      | Speaker: Davide Scaramuzza, University of Zurich (CH) |  _From Drone Racing to Disaster Response: Agile Autonomy in the Real World_    |
 | 3:30-4:00 pm      | Coffee Break                    | -   |
-| 4:00-4:30 pm      | Speaker: Lukas Rosenberger Schmid, University of Zurich (CH) | _Dynamic Robot Memory for Humanitarian Assistance_ |
+| 4:00-4:30 pm      | Speaker: Lukas Rosenberger Schmid, University of Technology Nuremberg (DE) | _Dynamic Robot Memory for Humanitarian Assistance_ |
 | 4:30-5:00 pm      | Speaker: Sebastian Scherer, Carnegie Mellon University (USA) | _Team Chiron’s Approach to Save the Maximum Number of Lives with a Team of Autonomous Robots in Mass Casualty Situations_ |
 | 5:00-5:30 pm      | Closing/concluding remarks and action items + Awards                 |                           |
 | 5:30 pm +      | Social sponsored by IEEE SSRR TC              |                           |
