@@ -16,7 +16,7 @@ nav: true
 | 12:30-1:30 pm      | Lunch on your own                            |                           |
 | 1:30-2:30 pm      | Keynote: Darwin Mick, Carnegie Mellon University (USA);                              | _Field Deployment of Snake Robots During the Venezuelan Earthquake Response_   |
 | 2:30-3:00 pm      | Speaker: Xuesu Xiao, George Mason University (USA) | _Learning Extreme Off-Road Mobility_   |
-| 3:00-3:30 pm      | Speaker: Davide Scaramuzza, University of Zurich (CH) |  _From Drone Racing to Disaster Response: Agile Autonomy in the Real World_    |
+| 3:00-3:30 pm      | Speaker: Ismail Geles, University of Zurich (CH) |  _From Drone Racing to Disaster Response: Agile Autonomy in the Real World_    |
 | 3:30-4:00 pm      | Coffee Break                    | -   |
 | 4:00-4:30 pm      | Speaker: Lukas Rosenberger Schmid, University of Technology Nuremberg (DE) | _Dynamic Robot Memory for Humanitarian Assistance_ |
 | 4:30-5:00 pm      | Speaker: Sebastian Scherer, Carnegie Mellon University (USA) | _Team Chiron’s Approach to Save the Maximum Number of Lives with a Team of Autonomous Robots in Mass Casualty Situations_ |
